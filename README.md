@@ -27,7 +27,7 @@ The primary goal of the app is to **minimize the overall time** required for fan
 6. **Calculation:** Press the **Výpočet** (Calculate) button.
 7. **Result:** The app will display the **Final Weight** (Hmotnosť) and the **Angle** (Uhol) where the permanent counterweight should be mounted.
 8. **Verification:** Apply the calculated weight, remove the trial weight, and run the fan to verify the balance.
-9.**Reset:** Use the reset button to clear all fields for a new measurement.
+9. **Reset:** Use the reset button to clear all fields for a new measurement.
 10.**Fine-tuning:**  If the vibrations are still above the desired limit, repeat the process as many times as needed to achieve perfect balance.
 
 <p align="center">
